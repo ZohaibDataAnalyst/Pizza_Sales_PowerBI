@@ -18,6 +18,6 @@
 
 **Bundle Large Sizes:** Create combo deals for larger pizzas to enhance revenue.
 
-**Category-Based Promotions:** Introduce discounts on underperforming categories to balance sales across all types.
+**Category-Based Promotions:** Introduce discounts on underperforming categories to balance sales across all types
 
 **View my project:** https://app.powerbi.com/view?r=eyJrIjoiNjFjMzE5OTUtNzUyNy00ZDg1LWFhZmEtOGRkY2VjOWFiNzQ2IiwidCI6ImE2Mzc2NWZmLWYwNzItNDk3OC1iYzdhLTRhYzY0NGQwMGExMyIsImMiOjl9
